@@ -1,6 +1,2 @@
-# tet1
-Test repository
+# This is repository contains sample projects
 
-Test
-
-Hello World
